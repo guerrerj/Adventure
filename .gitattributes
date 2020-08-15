@@ -34,3 +34,4 @@
 *.physicmaterial filter=lfs diff=lfs merge=lfs -text
 *.physicMaterial filter=lfs diff=lfs merge=lfs -text
 *.terrainlayer filter=lfs diff=lfs merge=lfs -text
+*.brush filter=lfs diff=lfs merge=lfs -text
